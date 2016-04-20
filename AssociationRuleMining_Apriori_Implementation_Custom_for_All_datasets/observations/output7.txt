@@ -1,0 +1,6 @@
+['priority'] => ['convenient'] (1.00713012478)
+['convenient'] => ['priority'] (1.00713012478)
+['priority'] => ['inconv'] (0.989304812834)
+['inconv'] => ['priority'] (0.989304812834)
+['convenient'] => ['critical'] (0.857142857143)
+['critical'] => ['convenient'] (0.857142857143)
